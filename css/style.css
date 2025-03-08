@@ -712,7 +712,8 @@ a:focus {
 }
 
 .team_section .team_box .img-box img {
-  width: 100%;
+  width: 80%;
+  height: 80%;
 }
 
 .team_section .team_box .detail-box {
